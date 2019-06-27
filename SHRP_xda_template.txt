@@ -20,10 +20,10 @@
  */[/CODE]
 
 
-[IMG]https://github.com/DNI9/SHRP_/raw/master/img/about_shrp.png[/IMG]
+[IMG]https://github.com/DNI9/SHRP_/raw/master/img/about_shrp2.png[/IMG]
 SHRP is inspired by Material design 2 to bring the newest design to the native TWRP.  SHRP provides much more along side of it's rich UI experience. New dashboard makes it very easy to interact with TWRP.  SHRP got some cool features like Whole new theming section ,Flash Magisk (root or unroot), Camera2api enabler Directly from dashboard, Password protection etc. It's all started , lot more to come.
 
-[IMG]https://github.com/DNI9/SHRP_/raw/master/img/features_shrp.png[/IMG]
+[IMG]https://github.com/DNI9/SHRP_/raw/master/img/features_shrp2.png[/IMG]
 
 - Themes 
 - List view mode along with grid dashboard
