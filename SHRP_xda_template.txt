@@ -1,0 +1,87 @@
+------- THREAD TITLE ----------
+[RECOVERY] [DEVICE_CODENAME] Sky Hawk Recovery Project <SHRP_version> [BUILD_DATE]
+-------------------------------
+
+
+------- COPY FROM HERE ----------
+
+
+[CENTER][IMG]https://github.com/DNI9/SHRP_/raw/master/img/shrp3_banner_xda.png[/IMG]
+
+[CODE]#include <std_disclaimer.h>
+/*
+ * Your warranty is... still valid?
+ *
+ * I am not responsible for bricked devices, dead SD cards,
+ * thermonuclear war, or you getting fired because the alarm app failed. Please
+ * do some research if you have any concerns about features included in this Recovery
+ * before flashing it! YOU are choosing to make these modifications, and if
+ * you point the finger at me for messing up your device, I will laugh at you.
+ */[/CODE]
+
+
+[IMG]https://github.com/DNI9/SHRP_/raw/master/img/about_shrp.png[/IMG]
+SHRP is inspired by Material design 2 to bring the newest design to the native TWRP.  SHRP provides much more along side of it's rich UI experience. New dashboard makes it very easy to interact with TWRP.  SHRP got some cool features like Whole new theming section ,Flash Magisk (root or unroot), Camera2api enabler Directly from dashboard, Password protection etc. It's all started , lot more to come.
+
+[IMG]https://github.com/DNI9/SHRP_/raw/master/img/features_shrp.png[/IMG]
+
+- Themes 
+- List view mode along with grid dashboard
+- Status bar customization
+- New rounded icons added on dashboard
+- Notch mode with toggle to disable
+- Dark mode or pure white, it's on you 
+- Navigation bar customization
+- Settings + Advanced Settings
+- Flash Magisk
+- Clear fingerprints.
+- Flash ViperFX
+- Recovery Locking , Pin or Pattern lock
+- CPU core lock/unlock
+- Language changing
+- Hal3 / CameraAPI2 enabling/disabling
+- Oreo+ Reboot menu style
+- Redesigned lock screen interface
+- Flashlight
+- Magisk manager - Enable, disable or delete magisk modules right from SHRP
+- and many more, flash right now to find out
+
+[IMG]https://github.com/DNI9/SHRP_/raw/master/img/instruction_shrp.png[/IMG]
+1. Make sure you have a custom recovery installed
+2. Download the latest SHRP recovery for your device
+3. Boot into recovery
+4. Flash shrp recovery zip
+5. Reboot to recovery.
+6. Done
+
+[IMG]https://github.com/DNI9/SHRP_/raw/master/img/bugs_shrp.png[/IMG]
+
+You tell... :P
+
+[IMG]https://github.com/DNI9/SHRP_/raw/master/img/download_shrp.png[/IMG]
+[URL="https://sourceforge.net/projects/shrp/files"][SIZE="5"]From Sourceforge[/SIZE][/URL]
+
+[IMG]https://github.com/DNI9/SHRP_/raw/master/img/links_shrp.png[/IMG]
+[URL="https://shrp.cf/"][SIZE="3"]Website[/SIZE][/URL]
+[URL="https://shrp.cf/#screenshots"][SIZE="3"]ScreenShots[/SIZE][/URL]
+[URL="https://t.me/sky_hawk"][SIZE="3"]Telegram Group[/SIZE][/URL]
+
+[IMG]https://github.com/DNI9/SHRP_/raw/master/img/credits_shrp.png[/IMG]
+EpicX
+DNI9
+TeamWin
+osmOsis
+VR25
+[B][SIZE="2"]Special Thanks [/SIZE][/B]
+Giovix92
+Pritish
+Kirill 
+Burak D.
+ZJRDroid
+[I]Please inform if we forgot to mention your name here , thanks ![/I]
+
+[/CENTER]
+
+[B]Maintainer:[/B] <Maintainer Name>
+[B]Based On:[/B] TWRP
+[B]TWRP Version:[/B] <version here>
