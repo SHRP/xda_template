@@ -58,8 +58,8 @@ SHRP is inspired by Material design 2 to bring the newest design to the native T
 
 You tell... :P
 
-[IMG]https://github.com/DNI9/SHRP_/raw/master/img/download_shrp.png[/IMG]
-[URL="https://sourceforge.net/projects/shrp/files"][SIZE="5"]From Sourceforge[/SIZE][/URL]
+[URL="https://sourceforge.net/projects/shrp/files/device_codename/"][IMG]https://github.com/DNI9/SHRP_/raw/master/img/download_shrp.png[/IMG][/URL]
+[URL="https://sourceforge.net/projects/shrp/files/device_codename/"][SIZE="5"]DOWNLOAD NOW[/SIZE][/URL]
 
 [IMG]https://github.com/DNI9/SHRP_/raw/master/img/links_shrp.png[/IMG]
 [URL="https://shrp.cf/"][SIZE="3"]Website[/SIZE][/URL]
@@ -82,6 +82,6 @@ ZJRDroid
 
 [/CENTER]
 
-[B]Maintainer:[/B] <Maintainer Name>
+[B]Maintainer:[/B] [url=<xda profile link>]<Maintainer Name>[/url]
 [B]Based On:[/B] TWRP
 [B]TWRP Version:[/B] <version here>
