@@ -1,2 +1,2 @@
-# SHRP_XDA Template
+# SHRP XDA Template
 xda template
