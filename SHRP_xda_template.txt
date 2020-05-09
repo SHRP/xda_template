@@ -26,7 +26,6 @@ SHRP is inspired by Material design 2 to bring the newest design to the native T
 [IMG]https://github.com/DNI9/SHRP_/raw/master/img/features_shrp2.png[/IMG]
 
 - Themes 
-- List view mode along with grid dashboard
 - Status bar customization
 - New rounded icons added on dashboard
 - Notch mode with toggle to disable
