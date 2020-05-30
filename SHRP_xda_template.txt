@@ -33,16 +33,20 @@ SHRP is inspired by Material design 2 to bring the newest design to the native T
 - Navigation bar customization
 - Settings + Advanced Settings
 - Flash Magisk
-- Clear fingerprints.
-- Flash ViperFX
+- Clear fingerprints
 - Recovery Locking , Pin or Pattern lock
-- CPU core lock/unlock
-- Language changing
 - Hal3 / CameraAPI2 enabling/disabling
 - Oreo+ Reboot menu style
 - Redesigned lock screen interface
 - Flashlight
 - Magisk manager - Enable, disable or delete magisk modules right from SHRP
+- Text Editor
+- Custom Themes
+- Theme, Lock, Addon survival
+- Some OTA functionalities
+- SHRP Injection (A/B)
+- Magisk injection
+- Auto decrypt
 - and many more, flash right now to find out
 
 [IMG]https://github.com/DNI9/SHRP_/raw/master/img/instruction_shrp.png[/IMG]
