@@ -80,6 +80,9 @@ VR25
 Topjohnwu
 Mauronofrio
 DarthJabba9
+steadfasterX for security enhancements
+Oddlyspaced for SHRP App
+Corsicanu for SAR fixes
 [B][SIZE="2"]Special Thanks [/SIZE][/B]
 Pritish
 Kirill 
