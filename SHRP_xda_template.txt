@@ -81,8 +81,11 @@ Topjohnwu
 Mauronofrio
 DarthJabba9
 steadfasterX
+GeopJr
 oddlyspaced
 Corsicanu
+Zackptg5
+Jcadduono
 [B][SIZE="2"]Special Thanks [/SIZE][/B]
 Pritish
 Kirill 
@@ -91,6 +94,8 @@ ZJRDroid
 LayeardDevMod
 Olek & Oliwier
 LeChenOS
+TipzTeam
+And all the developers whoever contributed to TWRP & SHRP
 [I]Please inform if we forgot to mention your name here , thanks ![/I]
 
 [/CENTER]
